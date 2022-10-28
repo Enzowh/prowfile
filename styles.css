@@ -44,21 +44,21 @@ nav ul li a:hover{
 }
 
 .detel h1{
-    font-size: 50px;
+    font-size: 30px;
     color: #212121;
     margin-bottom: 10px;
     font-weight: 600;
 }
 
 .detel h2{
-    font-size: 40px;
+    font-size: 30px;
     color: #212121;
     margin-bottom: 10px;
     font-weight: lighter;
 }
 
 .detel h3{
-    font-size: 50px;
+    font-size: 30px;
     color: #212121;
     font-weight: bolder;
     font-style: italic;
